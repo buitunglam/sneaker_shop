@@ -93,12 +93,12 @@ class _ShopPageState extends State<ShopPage> {
                           );
                         })),
 
-                Padding(
-                  padding: const EdgeInsets.only(top: 25, left: 25, right: 25),
-                  child: Divider(
-                    color: Colors.grey[300],
-                  ),
-                )
+                // Padding(
+                //   padding: const EdgeInsets.only(top: 25, left: 25, right: 25),
+                //   child: Divider(
+                //     color: Colors.grey[300],
+                //   ),
+                // )
               ],
             ));
   }
